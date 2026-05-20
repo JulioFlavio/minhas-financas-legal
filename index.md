@@ -1,16 +1,3 @@
-# Política de Privacidade — Minhas Finanças
-
-**Última atualização:** 19 de maio de 2026
-
-**Desenvolvedor:** Júlio Oliveira
-**Contato:** julioflaviojunior.bh@gmail.com
-
----
-
-> **Como usar este arquivo:** copie o conteúdo abaixo da linha tracejada e publique em uma URL pública (GitHub Pages, Notion público, etc.). Cole essa URL no campo "Política de privacidade" da Play Console.
-
----
-
 ## Política de Privacidade
 
 ### 1. Resumo
