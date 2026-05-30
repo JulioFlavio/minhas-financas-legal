@@ -1,16 +1,3 @@
-# Termos de Uso — Minhas Finanças
-
-**Última atualização:** 19 de maio de 2026
-
-**Desenvolvedor:** Júlio Oliveira
-**Contato:** julioflaviojunior.bh@gmail.com
-
----
-
-> **Como usar este arquivo:** copie o conteúdo abaixo da linha tracejada e publique na mesma URL pública da política de privacidade (ou em URL separada). Você pode linkar nos dois lugares: ficha da Play Store e dentro do próprio app (Mais → Ajuda).
-
----
-
 ## Termos de Uso
 
 ### 1. Aceitação
